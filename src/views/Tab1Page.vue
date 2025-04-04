@@ -158,6 +158,6 @@ export default defineComponent({
 <style scoped>
 ion-content {
   overflow-y: auto;
-  padding-bottom: 20px; /* Afegir espai a baix per al scroll */
+  padding-bottom: 20px; 
 }
 </style>
